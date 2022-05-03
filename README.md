@@ -1,2 +1,2 @@
-# 2022-1-ProyectosGrado
-Software para evaluación de proyectos de grado 
+# 2022-1 Proyecto de grado 
+Documente aquí todo lo relacionado con el proyecto
